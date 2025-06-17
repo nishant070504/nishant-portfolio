@@ -1,7 +1,25 @@
-# Responsive Web Design Projects
 
-This repository contains my personal submissions for the freeCodeCamp Responsive Web Design Certification.
+# Nishant Singh – Project Portfolio
 
-All projects demonstrate core concepts of HTML and CSS, focusing on layout, responsiveness, and semantic structure.
+This repository highlights a curated list of projects I've worked on across different areas of tech.
 
-These were built as part of my learning journey in web development.
+---
+
+## 🔧 Web Development
+- **Responsive Web Design** – HTML/CSS projects from freeCodeCamp.
+- **Mini JavaScript Projects** – DOM manipulation, basic interactions.
+
+## 📊 Data Analytics
+- **Exploratory Analysis (GUVI)** – Basic data cleaning and visualization.
+- **Python Projects** – NumPy, Pandas, Matplotlib use-cases.
+
+## 🧪 Simulations
+- **Electronic Arts – Software Engineering Simulation**  
+  Completed virtual internship simulation on Forage, featuring:
+  - Feature Request Documentation
+  - Basic API interactions
+  - Debugging and version control
+
+---
+
+For code and details, explore the linked repositories or folders.
