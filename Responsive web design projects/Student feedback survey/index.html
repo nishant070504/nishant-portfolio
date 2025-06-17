@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang ="en">
+  <head>
+    <title>Student Feedback Survey</title>
+    <meta charset ="utf-8">
+    <link rel="stylesheets" href ="styles.css">
+  </head>
+  <body>
+    <h1 id="title">Student Feedback Survey</h1>
+    <p id="description">Help us understand how the current education system benefits or challenges you.</p>
+    <form id="survey-form">
+      <fieldset>
+        <label id="name-label" for ="name">Name:
+          <input type="text" id="name" name="name" placeholder="John Doe" required/>
+        </label>
+        <label id="email-label" for="email">Email:
+          <input type="email" id="email" name="email" placeholder="john@example.com" required/>
+        </label>
+        <label id="number-label" for="number">Age:
+          <input type="number" id="number" name="Age" placeholder="18" min="13" max="120" required/>
+        </label>
+      </fieldset>
+
+      <fieldset>
+        <label for="dropdown">what best describes your education level?
+          <select id="dropdown" name="education">
+            <option value="">(Select one)</option>
+            <option value="school">High School</option>
+            <option value="college">College/University</option>
+            <option value="postgrad">Postgrad</option>
+            <option value="other">Other</option>
+          </select>
+        </label>
+      </fieldset>
+
+      <fieldset>
+        <legend>How Relevant is your curriculum to your goals?</legend>
+        <label><input type="radio" name="relevance" value="very" /> Very Relevant</label>
+        <label><input type="radio" name="relevance" value="somewhat"/> Somewhat Relevant</label>
+        <label><input type="radio" name="relevance" value="not"/> Not Relevant</label>
+      </fieldset>
+
+      <fieldset>
+        <legend>which aspects do you think need improvement? (Select all that apply)</legend>
+        <label><input type="checkbox" value="practical" name="improve" /> Practical Skills</label>
+        <label><input type="checkbox" value ="mental" name="improve" /> Mental Health Support</label>
+        <label><input type="checkbox" value="creativity" name="improve" /> Creative Freedom in Expression</label>
+        <label><input type="checkbox" value="career" name="improve"/> Career Guidance</label>
+      </fieldset>
+
+      <fieldset>
+        <label for="bio">Additional Comments:
+          <textarea id="bio" name="bio" rows="5" placeholder="share your thoughts about the education system.."></textarea>
+        </label>
+      </fieldset>
+
+      <fieldset>
+        <label for="profile-picture">Upload a profile picture:
+          <input type="file" id="profile-picture" name="profile-picture"/>
+        </label>
+      </fieldset>
+
+      <input type="submit" id="submit" value="Submit Feedback"/>
+    
+    </form>
+  </body>
+<html>
