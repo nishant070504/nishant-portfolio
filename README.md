@@ -1,25 +1,23 @@
-
 # Nishant Singh – Project Portfolio
 
-This repository highlights a curated list of projects I've worked on across different areas of tech.
-
----
+This repository contains a curated collection of projects across web development, data analytics, and software engineering simulations.
 
 ## 🔧 Web Development
-- **Responsive Web Design** – HTML/CSS projects from freeCodeCamp.
-- **Mini JavaScript Projects** – DOM manipulation, basic interactions.
+- Responsive Web Design projects built using HTML and CSS through freeCodeCamp
+- Mini JavaScript projects focused on DOM manipulation and interactive UI elements
+- Full-stack web applications using React.js and Node.js
 
 ## 📊 Data Analytics
-- **Exploratory Analysis (GUVI)** – Basic data cleaning and visualization.
-- **Python Projects** – NumPy, Pandas, Matplotlib use-cases.
+- Exploratory data analysis and visualization projects using Python
+- Worked with NumPy, Pandas, Matplotlib, and data cleaning workflows
+- Built analytical dashboards and trend visualizations
 
 ## 🧪 Simulations
-- **Electronic Arts – Software Engineering Simulation**  
-  Completed virtual internship simulation on Forage, featuring:
-  - Feature Request Documentation
-  - Basic API interactions
-  - Debugging and version control
+### Electronic Arts – Software Engineering Virtual Experience (Forage)
+Completed a software engineering simulation involving:
+- Feature request documentation
+- API interaction tasks
+- Debugging workflows
+- Version control practices
 
----
-
-For code and details, explore the linked repositories or folders.
+Explore the repository folders for project source code and implementation details.
